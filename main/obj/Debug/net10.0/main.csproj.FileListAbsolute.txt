@@ -1,0 +1,14 @@
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/bin/Debug/net10.0/main
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/bin/Debug/net10.0/main.deps.json
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/bin/Debug/net10.0/main.runtimeconfig.json
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/bin/Debug/net10.0/main.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/bin/Debug/net10.0/main.pdb
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.AssemblyInfoInputs.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.AssemblyInfo.cs
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.csproj.CoreCompileInputs.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/refint/main.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.pdb
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/main.genruntimeconfig.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/main/obj/Debug/net10.0/ref/main.dll

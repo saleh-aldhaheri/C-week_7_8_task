@@ -1,0 +1,47 @@
+using System;
+
+namespace wee8_7_task.main.Entities; 
+public class Account
+{
+    public Account(string name = "Unnamed Account", double balance = 0.0)
+    {
+        this.Name = name;
+        this.Balance = balance;
+    }
+
+    #region properties
+    
+    public string Name { get; set; }
+    public double Balance { get; protected set; }
+
+    #endregion
+
+    public virtual bool Deposit(double amount)
+    {
+        if (amount < 0)
+            return false;
+        else
+        {
+            this.Balance += amount;
+            return true;
+        }
+    }
+
+    public virtual bool Withdraw(double amount)
+    {
+        if (Balance - amount >= 0)
+        {
+            Balance -= amount;
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public override string ToString()
+    {
+        return $"[Account: {this.Name}: {this.Balance}]";
+    }
+}

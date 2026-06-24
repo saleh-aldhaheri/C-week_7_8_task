@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/search/">
+    <Project Path="search/search.csproj" />
+  </Folder>
+  <Project Path="main/main.csproj" />
+</Solution>

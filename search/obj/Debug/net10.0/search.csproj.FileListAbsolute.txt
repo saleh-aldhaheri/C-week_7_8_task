@@ -1,0 +1,14 @@
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/bin/Debug/net10.0/search
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/bin/Debug/net10.0/search.deps.json
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/bin/Debug/net10.0/search.runtimeconfig.json
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/bin/Debug/net10.0/search.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/bin/Debug/net10.0/search.pdb
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.GeneratedMSBuildEditorConfig.editorconfig
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.AssemblyInfoInputs.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.AssemblyInfo.cs
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.csproj.CoreCompileInputs.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/refint/search.dll
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.pdb
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/search.genruntimeconfig.cache
+/home/saleh/Desktop/Learning/C#/week8/week_7_8_task/search/obj/Debug/net10.0/ref/search.dll
