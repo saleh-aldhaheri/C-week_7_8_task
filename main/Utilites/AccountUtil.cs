@@ -41,10 +41,4 @@ public static class AccountUtil
                 Console.WriteLine($"Failed Withdrawal of {amount} from {acc}");
         }
     }
-
-    // Helper functions for Savings Account class
-
-    // Helper functions for Checking Account class
-
-    // Helper functions for Trust account class
 }
